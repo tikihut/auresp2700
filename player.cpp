@@ -1,7 +1,6 @@
-// Cameron Taylor
-// cdt0020
-// 4/10/2016
-// Compiled with eclipse and cygwin
+//Mitchell Derisio
+//mhd0006
+//4/03/2017
 
 #include "player.h"
 using namespace std;
@@ -24,7 +23,7 @@ void print_stats(player player)
 void print_player_options()
 {
     cout <<
-    "\t1) Move forward (takes time, could be risky…)\n"
+    "\t1) Move forward (takes time, could be riskyâ€¦)\n"
     << "\t2) Read technical papers (boost intelligence, takes time)\n"
     << "\t3) Search for loose change (boost money, takes time)\n"
     << "\t4) View character\n"
