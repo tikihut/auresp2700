@@ -1,7 +1,6 @@
-// Cameron Taylor
-// cdt0020
-// 4/10/2016
-// Compiled with eclipse and cygwin
+//Mitchell Derisio
+//mhd0006
+//4/03/2017
 
 #include "menu.h"
 #include <cstdlib>
@@ -17,7 +16,7 @@ void welcome(string name)
 void main_menu()
 {
     cout
-    << "1) Start a New Game of Dunstan and Dragons!\n"
+    << "1) Start a New Game of Dragons!\n"
     << "2) View the top 10 High Scores\n"
     << "3) Quit\n\n";
 }
@@ -101,6 +100,6 @@ void search_for_change(player& player)
     int money_gain = ( rand() % 5 ) + 1;
     player.time -= 2;
     player.money += money_gain;
-    cout << "You search around for some chance...\n\n"
+    cout << "You search around for some change...\n\n"
     << "You gain $" << money_gain << " but, lose 2 units of time!\n";
 }
