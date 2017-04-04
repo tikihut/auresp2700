@@ -65,10 +65,10 @@ void test_add_score()
     cout << "\nTesting adding test scores with two scores\n";
     
     score_node new_score1, new_score2;
-    new_score1.name  = "Bill";
+    new_score1.name  = "Bob";
     new_score1.score = 300;
     
-    new_score2.name  = "Jen";
+    new_score2.name  = "Jeff";
     new_score2.score = 20;
     
     int add1 = add_score(s_board, new_score1) ;
