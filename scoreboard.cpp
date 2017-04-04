@@ -1,7 +1,6 @@
-// Cameron Taylor
-// cdt0020
-// 4/10/2016
-// Compiled with eclipse and cygwin
+//Mitchell Derisio
+//mhd0006
+//4/03/2017
 
 #include "scoreboard.h"
 using namespace std;
@@ -42,7 +41,7 @@ void view_scores(scoreboard s_board)
     
     if (s_board.num_scores == 0)
     {
-        cout << "There are no scores yet. You can't lose!!\n";
+        cout << "There are no scores yet.\n";
     }
     else
     {
