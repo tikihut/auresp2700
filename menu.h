@@ -1,8 +1,6 @@
-// Cameron Taylor
-// cdt0020
-// 4/10/2016
-// Compiled with eclipse and cygwin
-
+//Mitchell Derisio
+//mhd0006
+//4/03/2017
 #ifndef ____menu__
 #define ____menu__
 
