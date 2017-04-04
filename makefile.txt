@@ -1,0 +1,29 @@
+project1 : main.o project1_test.o player.o scoreboard.o puzzles.o encounters.o menu.o scores.txt
+	g++ -o project1 main.o project1_test.o player.o scoreboard.o puzzles.o encounters.o menu.o
+
+project1_source.o : project1_source.cpp project1_test.h
+	g++ -c -std=c++11 main.cpp
+
+project1_test.o : project1_test.cpp project1_test.h
+	g++ -c -std=c++11 project1_test.cpp
+
+player.o : player.cpp player.h
+	g++ -c -std=c++11 player.cpp
+
+scoreboard.o : scoreboard.cpp scoreboard.h
+	g++ -c -std=c++11 scoreboard.cpp
+
+puzzles.o : puzzles.cpp puzzles.h player.h
+	g++ -c -std=c++11 puzzles.cpp
+
+encounters.o : encounters.cpp encounters.h player.h puzzles.h
+	g++ -c -std=c++11 encounters.cpp
+
+system.o : system.cpp system.h player.h scoreboard.h
+	g++ -c -std=c++11 menu.cpp
+
+scores.txt :
+	echo 'default 1' > scores.txt
+
+clean :
+	rm -rf *.o a.out

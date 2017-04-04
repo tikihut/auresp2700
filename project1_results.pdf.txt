@@ -1,0 +1,531 @@
+*****************Program Run Through****************
+
+What is your name? Cam
+
+==================================================================
+|                        Welcome, Cam                            |
+==================================================================
+
+1) Start a New Game of Dunstan and Dragons!
+2) View the top 10 High Scores
+3) Quit
+
+	Please choose an option: 2
+
+The top 1 High Scores are:
+	default 1
+-no more scores to show-
+
+
+1) Start a New Game of Dunstan and Dragons!
+2) View the top 10 High Scores
+3) Quit
+
+	Please choose an option: 1
+
+Brace yourself, for the halls are dark and full of terrors.
+Entering the Dungeon... 
+
+You have:
+
+Intelligence: 20
+Time: 25
+Money: $11.00
+
+You are 20 steps away from the goal. Time left: 25.
+
+	1) Move forward (takes time, could be risky…)
+	2) Read technical papers (boost intelligence, takes time)
+	3) Search for loose change (boost money, takes time)
+	4) View character
+	5) Quit the game
+
+
+	Please choose and action: 2
+
+You read through some technical papers. You gain 2 intelligence, but
+lose 2 units of time.
+
+
+You are 20 steps away from the goal. Time left: 23.
+
+	1) Move forward (takes time, could be risky…)
+	2) Read technical papers (boost intelligence, takes time)
+	3) Search for loose change (boost money, takes time)
+	4) View character
+	5) Quit the game
+
+
+	Please choose and action: 3
+
+You search around for some chance...
+
+You gain $5 but, lose 2 units of time!
+
+
+You are 20 steps away from the goal. Time left: 21.
+
+	1) Move forward (takes time, could be risky…)
+	2) Read technical papers (boost intelligence, takes time)
+	3) Search for loose change (boost money, takes time)
+	4) View character
+	5) Quit the game
+
+
+	Please choose and action: 4
+
+You have:
+
+Intelligence: 22
+Time: 21
+Money: $16.00
+
+
+You are 20 steps away from the goal. Time left: 21.
+
+	1) Move forward (takes time, could be risky…)
+	2) Read technical papers (boost intelligence, takes time)
+	3) Search for loose change (boost money, takes time)
+	4) View character
+	5) Quit the game
+
+
+	Please choose and action: 1
+
+You move forward one step, and...
+
+You complete some grunt work for another teacher!
+The useless work makes you lose 3 units of time and 1 intelligence! Sorry..
+
+
+
+You are 19 steps away from the goal. Time left: 18.
+
+	1) Move forward (takes time, could be risky…)
+	2) Read technical papers (boost intelligence, takes time)
+	3) Search for loose change (boost money, takes time)
+	4) View character
+	5) Quit the game
+
+
+	Please choose and action: 1
+
+You move forward one step, and...
+
+You complete some grunt work for another teacher!
+The useless work makes you lose 3 units of time and 2 intelligence! Sorry..
+
+
+
+You are 18 steps away from the goal. Time left: 15.
+
+	1) Move forward (takes time, could be risky…)
+	2) Read technical papers (boost intelligence, takes time)
+	3) Search for loose change (boost money, takes time)
+	4) View character
+	5) Quit the game
+
+
+	Please choose and action: 1
+
+You move forward one step, and...
+
+You come across another grad student, he is quite annoying...
+You lose 3 units of time.
+
+
+
+You are 17 steps away from the goal. Time left: 12.
+
+	1) Move forward (takes time, could be risky…)
+	2) Read technical papers (boost intelligence, takes time)
+	3) Search for loose change (boost money, takes time)
+	4) View character
+	5) Quit the game
+
+
+	Please choose and action: 1
+
+You move forward one step, and...
+
+You come across another grad student, he is quite annoying...
+You lose 3 units of time.
+
+
+
+You are 16 steps away from the goal. Time left: 9.
+
+	1) Move forward (takes time, could be risky…)
+	2) Read technical papers (boost intelligence, takes time)
+	3) Search for loose change (boost money, takes time)
+	4) View character
+	5) Quit the game
+
+
+	Please choose and action: 1
+
+You move forward one step, and...
+
+Nothing happens!
+You spent one unit of time.
+
+
+You are 15 steps away from the goal. Time left: 9.
+
+	1) Move forward (takes time, could be risky…)
+	2) Read technical papers (boost intelligence, takes time)
+	3) Search for loose change (boost money, takes time)
+	4) View character
+	5) Quit the game
+
+
+	Please choose and action: 1
+
+You move forward one step, and...
+
+You find some papers to grade!
+you spent 3 units of time, but gained $2.00!
+
+
+
+You are 14 steps away from the goal. Time left: 6.
+
+	1) Move forward (takes time, could be risky…)
+	2) Read technical papers (boost intelligence, takes time)
+	3) Search for loose change (boost money, takes time)
+	4) View character
+	5) Quit the game
+
+
+	Please choose and action: 1
+
+You move forward one step, and...
+
+Nothing happens!
+You spent one unit of time.
+
+
+You are 13 steps away from the goal. Time left: 6.
+
+	1) Move forward (takes time, could be risky…)
+	2) Read technical papers (boost intelligence, takes time)
+	3) Search for loose change (boost money, takes time)
+	4) View character
+	5) Quit the game
+
+
+	Please choose and action: 1
+
+You move forward one step, and...
+
+Puzzle: In the Superman movies what newspaper does Clark Kent Work for?
+1. pizza palace
+2. times
+3. the daily planet
+4. Newspapers?
+
+Choose wisely: 3
+Correct!
+Reward: 10.00 dollars
+Reward: 65535 units of time
+
+
+You are 12 steps away from the goal. Time left: 65541.
+
+	1) Move forward (takes time, could be risky…)
+	2) Read technical papers (boost intelligence, takes time)
+	3) Search for loose change (boost money, takes time)
+	4) View character
+	5) Quit the game
+
+
+	Please choose and action: 1
+
+You move forward one step, and...
+
+Puzzle: What is Batman's real name? 
+1. Batman
+2. Josh Lampert
+3. Bruce Wayne
+4. Bob the builder
+
+Choose wisely: 3
+Correct!
+Reward: 10.00 dollars
+Reward: 65535 units of time
+
+
+You are 11 steps away from the goal. Time left: 131076.
+
+	1) Move forward (takes time, could be risky…)
+	2) Read technical papers (boost intelligence, takes time)
+	3) Search for loose change (boost money, takes time)
+	4) View character
+	5) Quit the game
+
+
+	Please choose and action: 1
+
+You move forward one step, and...
+
+Nothing happens!
+You spent one unit of time.
+
+
+You are 10 steps away from the goal. Time left: 131076.
+
+	1) Move forward (takes time, could be risky…)
+	2) Read technical papers (boost intelligence, takes time)
+	3) Search for loose change (boost money, takes time)
+	4) View character
+	5) Quit the game
+
+
+	Please choose and action: 1
+
+You move forward one step, and...
+
+Puzzle: What is Batman's real name? 
+1. Batman
+2. Josh Lampert
+3. Bruce Wayne
+4. Bob the builder
+
+Choose wisely: 3
+Correct!
+Reward: 10.00 dollars
+Reward: 65535 units of time
+
+
+You are 9 steps away from the goal. Time left: 196611.
+
+	1) Move forward (takes time, could be risky…)
+	2) Read technical papers (boost intelligence, takes time)
+	3) Search for loose change (boost money, takes time)
+	4) View character
+	5) Quit the game
+
+
+	Please choose and action: 1
+
+You move forward one step, and...
+
+You complete some grunt work for another teacher!
+The useless work makes you lose 3 units of time and 2 intelligence! Sorry..
+
+
+
+You are 8 steps away from the goal. Time left: 196608.
+
+	1) Move forward (takes time, could be risky…)
+	2) Read technical papers (boost intelligence, takes time)
+	3) Search for loose change (boost money, takes time)
+	4) View character
+	5) Quit the game
+
+
+	Please choose and action: 1
+
+You move forward one step, and...
+
+Nothing happens!
+You spent one unit of time.
+
+
+You are 7 steps away from the goal. Time left: 196608.
+
+	1) Move forward (takes time, could be risky…)
+	2) Read technical papers (boost intelligence, takes time)
+	3) Search for loose change (boost money, takes time)
+	4) View character
+	5) Quit the game
+
+
+	Please choose and action: 1
+
+You move forward one step, and...
+
+Nothing happens!
+You spent one unit of time.
+
+
+You are 6 steps away from the goal. Time left: 196608.
+
+	1) Move forward (takes time, could be risky…)
+	2) Read technical papers (boost intelligence, takes time)
+	3) Search for loose change (boost money, takes time)
+	4) View character
+	5) Quit the game
+
+
+	Please choose and action: 1
+
+You move forward one step, and...
+
+Nothing happens!
+You spent one unit of time.
+
+
+You are 5 steps away from the goal. Time left: 196608.
+
+	1) Move forward (takes time, could be risky…)
+	2) Read technical papers (boost intelligence, takes time)
+	3) Search for loose change (boost money, takes time)
+	4) View character
+	5) Quit the game
+
+
+	Please choose and action: 1
+
+You move forward one step, and...
+
+Puzzle: In the original Jackson family line up, how many brothers were there?
+1. 6
+2. 5
+3. 4
+4. 3 
+
+Choose wisely: 2
+Correct!
+Reward: 5.00 dollars
+Reward: 65535 units of time
+
+
+You are 4 steps away from the goal. Time left: 262143.
+
+	1) Move forward (takes time, could be risky…)
+	2) Read technical papers (boost intelligence, takes time)
+	3) Search for loose change (boost money, takes time)
+	4) View character
+	5) Quit the game
+
+
+	Please choose and action: 1
+
+You move forward one step, and...
+
+Puzzle: In the original Jackson family line up, how many brothers were there?
+1. 6
+2. 5
+3. 4
+4. 3 
+
+Choose wisely: 2
+Correct!
+Reward: 5.00 dollars
+Reward: 65535 units of time
+
+
+You are 3 steps away from the goal. Time left: 327678.
+
+	1) Move forward (takes time, could be risky…)
+	2) Read technical papers (boost intelligence, takes time)
+	3) Search for loose change (boost money, takes time)
+	4) View character
+	5) Quit the game
+
+
+	Please choose and action: 1
+
+You move forward one step, and...
+
+Nothing happens!
+You spent one unit of time.
+
+
+You are 2 steps away from the goal. Time left: 327678.
+
+	1) Move forward (takes time, could be risky…)
+	2) Read technical papers (boost intelligence, takes time)
+	3) Search for loose change (boost money, takes time)
+	4) View character
+	5) Quit the game
+
+
+	Please choose and action: 1
+
+You move forward one step, and...
+
+You encounter a professor, maybe he can help!
+You lose 1 units of time and gain 1 intelligence
+
+
+
+You are 1 steps away from the goal. Time left: 327677.
+
+	1) Move forward (takes time, could be risky…)
+	2) Read technical papers (boost intelligence, takes time)
+	3) Search for loose change (boost money, takes time)
+	4) View character
+	5) Quit the game
+
+
+	Please choose and action: 1
+
+You move forward one step, and...
+
+You find some papers to grade!
+you spent 1 units of time, but gained $3.00!
+
+
+
+**** Gratz! ****
+You win!
+
+Your score of 359788248 will be saved!
+Thanks for playing!
+
+****************************************************
+*****************Tests******************************
+****************************************************
+
+Testing initialize_player...
+initialize_player successful!
+
+Testing print_stats...
+
+You have:
+
+Intelligence: 20
+Time: 25
+Money: $11.00
+
+print_stats successful!
+
+Testing print_player_options...
+
+	1) Move forward (takes time, could be risky…)
+	2) Read technical papers (boost intelligence, takes time)
+	3) Search for loose change (boost money, takes time)
+	4) View character
+	5) Quit the game
+
+
+Testing add_score...
+Passed!
+
+Testing adding test scores with two scores
+Passed!
+
+
+Testing main_menu...
+
+1) Start a New Game of Dunstan and Dragons!
+2) View the top 10 High Scores
+3) Quit
+
+Testing calculate_scores...
+
+Passed!
+Testing view_scores...
+The top 3 High Scores are:
+	bill 60
+	bob 50
+	ben 2
+	 1630322176
+      0 [main] Project1Dragon 8904 cygwin_exception::open_stackdumpfile: Dumping stack trace to Project1Dragon.exe.stackdump
+***************************************
+**************Comments*****************
+***************************************
+I had a lot of problems with this project that all came from i believe pointers and the points.
+most of the program works other that that part though....
