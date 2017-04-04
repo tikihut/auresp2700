@@ -1,7 +1,6 @@
-// Cameron Taylor
-// cdt0020
-// 4/10/2016
-// Compiled with eclipse and cygwin
+//Mitchell Derisio
+//mhd0006
+//4/03/2017
 
 #include "project1_test.h"
 #include "time.h"
@@ -48,7 +47,7 @@ int main()
         
         encounter_t encounter;
         
-        cout << "\nBrace yourself, for the halls are dark and full of terrors.\nEntering the Dungeon... \n\n";
+        cout << "\nYour journey starts here.\nEntering the Dungeon... \n\n";
         print_stats(player);
         cout << "\n";
         while (alive_status < 1 && steps != 0)
@@ -78,7 +77,7 @@ int main()
                     print_stats(player);
                     break;
                 case '5':
-                    cout << "You quit... Get good kid...\n";
+                    cout << "You quit...\n";
                     return 0;
                 default:
                     cout << "Invalid choice, Try again!\n\n";
@@ -90,7 +89,7 @@ int main()
         
         if (steps == 0)
         {
-            cout << "**** Gratz! ****\n"
+            cout << "**** congrats! ****\n"
             << "You win!\n\n";
             int final_score = calculate_score(player);
             cout << "Your score of " << final_score << " will be saved!\nThanks for playing!\n\n";
