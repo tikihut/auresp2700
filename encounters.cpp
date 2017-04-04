@@ -1,7 +1,6 @@
-// Cameron Taylor
-// cdt0020
-// 4/10/2016
-// Compiled with eclipse and cygwin
+//Mitchell Derisio
+//mhd0006
+//4/03/2017
 
 #include "encounters.h"
 #include <stdlib.h>
@@ -53,7 +52,7 @@ void do_encounter(encounter_t type, player& player, puzzle* puzzles, int& i, int
         case professor:
             time_loss  = (rand() % 3) + 1;
             int_gain = (rand() % 2);
-            cout << "You encounter a professor, maybe he can help!\n"
+            cout << "You encounter a professor.\n"
             << "You lose " << time_loss << " units of time and gain " << int_gain << " intelligence\n\n";
             player.time -= time_loss;
             player.intelligence += int_gain;
@@ -62,7 +61,7 @@ void do_encounter(encounter_t type, player& player, puzzle* puzzles, int& i, int
             
         case grad_student:
             time_loss  = (rand() % 3) + 1; // Lose between 1 and 3 time
-            cout << "You come across another grad student, he is quite annoying...\n"
+            cout << "You come across another grad student.\n"
             << "You lose " << time_loss << " units of time.\n\n";
             player.time -= time_loss;
             steps -= 1;
@@ -72,7 +71,7 @@ void do_encounter(encounter_t type, player& player, puzzle* puzzles, int& i, int
             time_loss  = (rand() % 3) + 1;
             intel_loss = (rand() % 4) + 1;
             cout << "You complete some grunt work for another teacher!\n"
-            << "The useless work makes you lose " << time_loss << " units of time and " << intel_loss << " intelligence! Sorry..\n\n";
+            << "The work makes you lose " << time_loss << " units of time and " << intel_loss << " intelligence! Sorry..\n\n";
             player.time -= time_loss;
             player.intelligence -= intel_loss;
             steps -= 1;
